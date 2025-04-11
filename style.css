@@ -1,0 +1,42 @@
+body {
+	background-color: #420039;
+	color: #420039;
+	font-family: "Schoolbell", cursive;
+}
+
+button {
+	margin: 15px;
+}
+
+h1 {
+	text-align: center;
+	color: #D72638;
+	padding: 10px;
+}
+
+.container {
+	padding: 30px;
+	margin: 50px;
+	gap: 30px;
+	justify-content: center;
+	background-color: #D72638;
+	border-radius: 5px;
+	box-shadow:;
+
+}
+
+a {
+	text-decoloration: none;
+	text-decoration:none;
+	color: #420039;
+}
+
+.footer {
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	padding: 18px;
+	text-align: center;
+	background-color:#D72638;
+	position: fixed;
+}
